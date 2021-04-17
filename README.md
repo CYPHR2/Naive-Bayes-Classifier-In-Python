@@ -4,7 +4,7 @@
  Using the multinomial navie bayes classifier 
  Important ML Libraries used for this project are sklearn ,pandas and numpy 
 
-## Dataset contains around 200k news headlines from the year 2012 to 2018 obtained from HuffPost. The model trained on this dataset could be used to identify tags for untracked news articles or to identify the type of language used in different news ar
+ Dataset contains around 200k news headlines from the year 2012 to 2018 obtained from HuffPost. The model trained on this dataset could be used to identify tags for untracked news articles or to identify the type of language used in different news ar
 
 
 ##python environment dependencies

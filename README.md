@@ -2,9 +2,17 @@
 
 ### Implemention of Naive Bayes Classifier(NBC) of English news paper Head Lines into Politics, Sports, Education, Healthcare, Finance ( 5- Class Labels)
 ## Using the multinomial navie bayes classifier 
-## Imprtant ML Libraries used for this project are sklearn ,pandas and numpy 
+## Important ML Libraries used for this project are sklearn ,pandas and numpy 
 
 ## Dataset contains around 200k news headlines from the year 2012 to 2018 obtained from HuffPost. The model trained on this dataset could be used to identify tags for untracked news articles or to identify the type of language used in different news ar
+
+
+##python environment dependencies
+
+
+
+
+
 
 ## Acknowledgements
 This dataset was collected from HuffPost
@@ -17,3 +25,4 @@ This dataset was collected from HuffPost
 ##  title = {News Category Dataset},
 ##  doi = {10.13140/RG.2.2.20331.18729}
 ## }
+
